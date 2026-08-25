@@ -3,19 +3,19 @@ description: Пользовательская документация для а
 links:
   - title: Начало работы
     href: about.md
-    description: Познакомьтесь с  функциональными возможностями платформы
+    description: Обзор главной страницы пользователя
   - title: Номенклатура
     href: nomenc_account_manager.md
-    description: Научитесь работать с номенклатурой
+    description: Взаимодействие с товарами на стоке
   - title: Заявки
     href: nomenc_account_manager.md
     description: Создание, редактирование и отмена заявок    
-  - title: Документы поступления и списания
-    href: docs_acc_manager.md
-    description: Просмотр документов поступления и списания
   - title: Товары
     href: goods_acc_manager.md
     description: Просмотр актуальных товарных остатков на складе
+  - title: Дополнительно
+    href: dopolnitelno.md
+    description: Дополнительные сведения о системе  
 
 
 
